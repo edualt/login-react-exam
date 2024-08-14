@@ -45,3 +45,4 @@ Inicializa el proyecto utilizando `npm install` para instalar las dependencias n
 - `formik`: Utilizado para la validación de formularios.
 - `yup`: Utilizado para definir los esquemas de validación de los formularios.
 - `axios`: Utilizado para realizar peticiones HTTP a la API REST.
+- `jwt-decode`: Utilizado para decodificar el token de autenticación y obtener la información del usuario.
