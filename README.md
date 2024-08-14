@@ -39,3 +39,9 @@ Inicializa el proyecto utilizando `npm install` para instalar las dependencias n
 - **Tiempo estimado**: Se recomienda que completes esta prueba en un máximo de 4 horas.
 
 ¡Buena suerte!
+
+## Dependencias
+
+- `formik`: Utilizado para la validación de formularios.
+- `yup`: Utilizado para definir los esquemas de validación de los formularios.
+- `axios`: Utilizado para realizar peticiones HTTP a la API REST.
