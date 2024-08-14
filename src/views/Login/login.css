@@ -1,0 +1,20 @@
+.image {
+  height: 3rem;
+  width: auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.gridContainer {
+  min-height: 100vh;
+}
+
+.alignCenter {
+  text-align: center;
+}
+
+.errorText {
+  color: red;
+  font-size: 0.8em;
+  margin-top: 4px;
+}

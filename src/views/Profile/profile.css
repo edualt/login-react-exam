@@ -1,0 +1,74 @@
+.profileContainer {
+  padding: 20px;
+  width: 50%;
+  max-width: 500px;
+  margin: 0 auto;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+}
+
+.profileHeader {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.profileImage {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.profileName {
+  margin-bottom: 10px;
+}
+
+.profileName h2 {
+  font-size: 1.5em;
+  margin: 5px 0;
+}
+
+.profileRole, .profileEmail, .profileGender {
+  font-size: 0.9em;
+  color: #888;
+  margin: 3px 0;
+}
+
+.profileDetails {
+  margin-top: 20px;
+}
+
+.profileItem {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 10px;
+}
+
+.profileLabel {
+  font-weight: bold;
+  font-size: 0.9em;
+  color: #555;
+}
+
+.profileValue {
+  font-size: 0.9em;
+  color: #333;
+}
+
+.logoutButton {
+  margin-top: 20px;
+  color: white;
+  width: 100%;
+  max-width: 300px;
+  font-weight: bold;
+  border-radius: 8px;
+  padding: 10px;
+  transition: background-color 0.3s ease;
+}
